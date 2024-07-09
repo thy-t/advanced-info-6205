@@ -1,0 +1,11 @@
+## Jagadeesh Vasudevamurthy ####
+digraph g {
+	 edge [color=red]
+	 s -> 0[label = 2.0]
+	 s -> 0[label = 2.0]
+	 s -> 0[label = 2.0]
+	 0 -> 1[label = 5.0]
+	 1 -> t[label = 3.0]
+	 1 -> t[label = 3.0]
+	 1 -> t[label = 3.0]
+}

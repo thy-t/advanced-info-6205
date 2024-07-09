@@ -1,0 +1,11 @@
+## Jagadeesh Vasudevamurthy ####
+digraph g {
+	 edge [color=red]
+	   Bar -> Bat
+	   Cab -> Car
+	   Cab -> Cat
+	   Car -> Bar
+	   Mat -> Bat
+	   Cat -> Mat
+	   Cat -> Bat
+}
