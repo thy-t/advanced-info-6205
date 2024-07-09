@@ -9,10 +9,7 @@
 <h5> Maze Problem </h5>
 <h3> 5 </h3>
 <h5> Introduction to Graph DS </h5>
-<h3> 6 </h3>
 <h5> GraphDot, GraphBuilder </h5>
-<h3> 7 </h3>
 <h5> Graph Depth First Traversal using Timestampts </h5>
-<h3> 8 </h3>
 <h5> Graph Depth First Traversal using Colors </h5>
 
